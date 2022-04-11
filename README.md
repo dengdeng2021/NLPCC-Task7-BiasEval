@@ -100,6 +100,9 @@ Tentative evaluation metric: F1 scores.
 
 ## Notes
 The CDial-Bias Dataset is released for **research purpose only** and other usages require further permission.
+
+<img src="https://user-images.githubusercontent.com/33616384/162662515-9b593893-5d0d-4997-bd99-56a058fc32e0.png" width="280px" />
+
 If you want to publish experimental results with this dataset, please cite the following article:
 ```
 @misc{cdial2022zhou,
